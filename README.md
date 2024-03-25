@@ -1,1 +1,6 @@
 # Praktikum-1.-Plotting-Area-dan-Distorsi-Gambar
+NAMA  : MUHAMMAD DEFRI ADITYA PRATAMA
+
+NIM   : G.211.23.0069
+
+KELAS : TEKNIK INFORMATIKA / B1 
